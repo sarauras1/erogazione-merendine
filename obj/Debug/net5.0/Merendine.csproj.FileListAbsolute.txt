@@ -1,0 +1,16 @@
+C:\Users\allbe\source\repos\Merendine\Merendine\bin\Debug\net5.0\Merendine.exe
+C:\Users\allbe\source\repos\Merendine\Merendine\bin\Debug\net5.0\Merendine.deps.json
+C:\Users\allbe\source\repos\Merendine\Merendine\bin\Debug\net5.0\Merendine.runtimeconfig.json
+C:\Users\allbe\source\repos\Merendine\Merendine\bin\Debug\net5.0\Merendine.runtimeconfig.dev.json
+C:\Users\allbe\source\repos\Merendine\Merendine\bin\Debug\net5.0\Merendine.dll
+C:\Users\allbe\source\repos\Merendine\Merendine\bin\Debug\net5.0\ref\Merendine.dll
+C:\Users\allbe\source\repos\Merendine\Merendine\bin\Debug\net5.0\Merendine.pdb
+C:\Users\allbe\source\repos\Merendine\Merendine\obj\Debug\net5.0\Merendine.csprojAssemblyReference.cache
+C:\Users\allbe\source\repos\Merendine\Merendine\obj\Debug\net5.0\Merendine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allbe\source\repos\Merendine\Merendine\obj\Debug\net5.0\Merendine.AssemblyInfoInputs.cache
+C:\Users\allbe\source\repos\Merendine\Merendine\obj\Debug\net5.0\Merendine.AssemblyInfo.cs
+C:\Users\allbe\source\repos\Merendine\Merendine\obj\Debug\net5.0\Merendine.csproj.CoreCompileInputs.cache
+C:\Users\allbe\source\repos\Merendine\Merendine\obj\Debug\net5.0\Merendine.dll
+C:\Users\allbe\source\repos\Merendine\Merendine\obj\Debug\net5.0\ref\Merendine.dll
+C:\Users\allbe\source\repos\Merendine\Merendine\obj\Debug\net5.0\Merendine.pdb
+C:\Users\allbe\source\repos\Merendine\Merendine\obj\Debug\net5.0\Merendine.genruntimeconfig.cache
